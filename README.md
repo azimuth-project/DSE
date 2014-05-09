@@ -3,6 +3,9 @@ Authors
 DSE code : David Tweed
 cmake makefile : Glyn Adgie
 
+Copyright : David Tweed, 2012
+Licence : BSD
+
 Build
 ------
 
