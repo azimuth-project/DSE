@@ -1,3 +1,8 @@
+Authors
+-------
+DSE code : David Tweed
+cmake makefile : Glyn Adgie
+
 Build
 ------
 
